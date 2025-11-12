@@ -19,12 +19,18 @@
   <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
+<div align="left">
+  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/kafka-%23231F20.svg?&style=for-the-badge&logo=kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+<div align="left">
+  <img src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
+</div>
 
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=choikang123&bg_color=60,0d1117,ffffff&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choikang123&layout=compact&bg_color=60,0d1117,ffffff&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=choikang123&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
     
 ### Activity
     - 서울과학기술대학교 컴퓨터 공학과
