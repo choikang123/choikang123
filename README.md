@@ -23,9 +23,14 @@
 </div>
   
 <br>
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=choikang123&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
+
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Stats </h2> 
+    <div style="text-align: left;"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=choikang123&show_icons=true&theme=tokyonight&cache_seconds=1800" /> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choikang123&layout=compact&theme=tokyonight" /> 
+    </div> 
+</div>
     
 ### Activity
     - 서울과학기술대학교 컴퓨터 공학과
